@@ -1,0 +1,13 @@
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioEtiquetas\ExercicioEtiquetas\bin\Debug\netcoreapp3.1\ExercicioEtiquetas.exe
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioEtiquetas\ExercicioEtiquetas\bin\Debug\netcoreapp3.1\ExercicioEtiquetas.deps.json
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioEtiquetas\ExercicioEtiquetas\bin\Debug\netcoreapp3.1\ExercicioEtiquetas.runtimeconfig.json
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioEtiquetas\ExercicioEtiquetas\bin\Debug\netcoreapp3.1\ExercicioEtiquetas.runtimeconfig.dev.json
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioEtiquetas\ExercicioEtiquetas\bin\Debug\netcoreapp3.1\ExercicioEtiquetas.dll
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioEtiquetas\ExercicioEtiquetas\bin\Debug\netcoreapp3.1\ExercicioEtiquetas.pdb
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioEtiquetas\ExercicioEtiquetas\obj\Debug\netcoreapp3.1\ExercicioEtiquetas.csproj.AssemblyReference.cache
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioEtiquetas\ExercicioEtiquetas\obj\Debug\netcoreapp3.1\ExercicioEtiquetas.AssemblyInfoInputs.cache
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioEtiquetas\ExercicioEtiquetas\obj\Debug\netcoreapp3.1\ExercicioEtiquetas.AssemblyInfo.cs
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioEtiquetas\ExercicioEtiquetas\obj\Debug\netcoreapp3.1\ExercicioEtiquetas.csproj.CoreCompileInputs.cache
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioEtiquetas\ExercicioEtiquetas\obj\Debug\netcoreapp3.1\ExercicioEtiquetas.dll
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioEtiquetas\ExercicioEtiquetas\obj\Debug\netcoreapp3.1\ExercicioEtiquetas.pdb
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioEtiquetas\ExercicioEtiquetas\obj\Debug\netcoreapp3.1\ExercicioEtiquetas.genruntimeconfig.cache
